@@ -1,0 +1,26 @@
+
+.container{
+    width: 800px;
+    margin-left: 470px;
+}
+.header{
+    height: 100px;
+    background-color: rgb(91, 91, 233);
+    border: 2px solid #da2f2f;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img{
+    width: 800px;
+}
+.footer{
+    height: 100px;
+    background-color: rgb(91, 91, 233);
+    border: 2px solid #da2f2f;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
